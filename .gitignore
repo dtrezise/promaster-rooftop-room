@@ -1,0 +1,8 @@
+# Public repository allowlist. Working research and source materials remain local.
+*
+!/.gitignore
+!/.nojekyll
+!/index.html
+!/styles.css
+!/script.js
+!/robots.txt
